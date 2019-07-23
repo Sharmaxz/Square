@@ -1,4 +1,1 @@
-#Square
-##Introduction
-####Square is a game based on VVVVVV and Geometry Dash.
-######made by Shadow and Wimided
+My favorite game that I made in my technical course
